@@ -22,7 +22,7 @@ The program presents multiple-choice questions, checks answers, tracks the score
 ```
 Java-Quiz-Game/
 │
-├── Snacks.java        # Main class (program entry point)
+├── QuizGame.java        # Main class (program entry point)
 ├── Question.java      # Handles question data and logic
 ├── Quiz.java          # Controls quiz flow and scoring
 ├── QuizCategory.java  # Optional category grouping
