@@ -53,13 +53,13 @@ This project demonstrates several **Java programming concepts**:
 Open a terminal in the project folder and run:
 
 ```bash
-javac Snacks.java
+javac QuizGame.java
 ```
 
 ## 2️⃣ Run the Program
 
 ```bash
-java Snacks
+java QuizGame
 ```
 
 ---
